@@ -2,4 +2,4 @@
 
 README.md 
 
-Edit in Github
+Edit locally
