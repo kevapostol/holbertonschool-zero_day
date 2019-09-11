@@ -1,3 +1,3 @@
 # holbertonschool-zero_day
 
-Edit local
+Edit github
